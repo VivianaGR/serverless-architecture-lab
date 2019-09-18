@@ -76,7 +76,8 @@ namespace TollBooth
 
         /// <summary>
         /// Used for mapping from a LicensePlateDataDocument object to a LicensePlateData object.
-        /// </summary>
+        /// </summary
+        /// sgsgsgsg
         /// <param name="source"></param>
         /// <returns></returns>
         private static LicensePlateData ToLicensePlateData(LicensePlateDataDocument source)
